@@ -34,7 +34,7 @@ In this Jupyter Notebook, we explore the fascinating world of coffee flavors thr
 
 ## Data
 
-The data used in this notebook is located in the [data](data) directory. Details about the data sources and formats are provided within the notebook.
+The data used in this notebook is located in the [dataset](ddf_arabica_clean.csv) directory. Details about the data sources and formats are provided within the notebook.
 
 ## Requirements
 
