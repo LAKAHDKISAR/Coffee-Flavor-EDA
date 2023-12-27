@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi
 - [Data](#data)
 - [Requirements](#Requirements)
 - [License](#license)
+- [Course_Acknowledgement](#Course_Acknowledgement)
 
 ## Introduction
 
@@ -48,4 +49,8 @@ The data used in this notebook is located in the [data](https://github.com/LAKAH
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Course_Acknowledgement
+
+This EDA has been undertaken as part of the Data Science: Intermediate course at NCC Education, United Kingdom. It represents a practical fulfillment of the curriculum's requirements, allowing for the application of data science methodologies to real-world scenarios
 
